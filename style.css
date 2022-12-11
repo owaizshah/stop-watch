@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: sans-serif;
+  background-color: rgb(199, 79, 36);
+}
+.container {
+  width: 800px;
+
+  margin-left: 300px;
+  margin-top: 100px;
+  text-align: center;
+}
+h1 {
+  font-size: 45px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: white;
+}
+
+p {
+  font-size: 45px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: white;
+}
+
+.btn {
+  padding: 10px 18px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 20px;
+
+  background-color: rgb(244, 244, 50);
+}
